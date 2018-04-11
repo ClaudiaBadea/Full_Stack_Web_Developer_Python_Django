@@ -1,0 +1,34 @@
+h2{
+    font-family: 'Gaegu', cursive;
+    text-align: center;
+}
+.art{
+    margin: auto;
+}
+td{
+    padding: 50px;
+    border: 6px solid white;
+    height: 100px;
+}
+/*Colors:
+#05668D
+#028090
+#00A896
+#02C39A
+#F0F3BD
+*/
+#one{
+    background-color: #05668D;
+}
+#two{
+    background-color: #028090;
+}
+#three{
+    background-color: #00A896;
+}
+#four{
+    background-color: #02C39A;
+}
+#five{
+    background-color: #F0F3BD
+}
