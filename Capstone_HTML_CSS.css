@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background: #011b47;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    border: 40px solid #27aee8;
+    border-top: 0px;
+    margin: 0px;
+
+}
+
+p{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+form{
+    font-size: 1.5em;
+}
+
+#sub{
+    background-color: #e2af2d;
+    height: 50px;
+    width: 100px;
+    margin: 4px;
+    margin-top: 10px;
+    font-size: 0.6em;
+    border-radius: 25px;
+
+
+}
